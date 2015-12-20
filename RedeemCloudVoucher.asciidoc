@@ -1,0 +1,36 @@
+= Cloud Innovation Centre Guide: Redeem Cloud Voucher
+
+The following instructional guide will show how to create a Microsoft Azure account, and to redeem your cloud voucher provided through the Cloud Innovation Centre.
+
+== Step 1
+
+Visit link:https://azure.microsoft.com/en-gb/account/[https://azure.microsoft.com/en-gb/account/] and click _“Usage and billing”_.
+
+image:images/ManageUserBilling.png["Manage your Azure account",align="center"]
+
+== Step 2
+Create an account using the _“Sign up now”_ link.
+
+image:images/SignUp.png["Subscription Dashboard",align="center"]
+
+== Step 3:
+Once you have created your Windows Azure account, visit link:https://account.windowsazure.com/Subscriptions[https://account.windowsazure.com/Subscriptions] and select _“Add a Microsoft Azure subscription”_.
+
+image:images/SubscriptionDashboard.png["Subscription Dashboard",align="center"]
+
+== Step 3:
+Under _"Select an Offer"_, scroll down and select _"Azure in Open"_.
+
+image:images/SelectAnOffer.png["Subscription Dashboard",align="center"]
+
+== Step 4:
+Under _"Enter Product key"_, enter your Azure voucher code, and click _"Validate"_.
+
+Under _"Partner Contact Email"_, enter _"cic@newcastle.ac.uk"_.
+
+Check the box to agree to the terms of the Open Program Agreement and Privacy Statement, and click Activate.
+
+image:images/ProductKey.png["Subscription Dashboard",align="center"]
+
+== Step 5:
+You have now redeemed your CIC voucher, and will be able to make use of a full range of Microsoft Azure services.
