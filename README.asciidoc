@@ -1,0 +1,3 @@
+= Cloud Innovation Centre - Customer Guides
+
+link:RedeemCloudVoucher.asciidoc[Redeem Cloud Voucher]
