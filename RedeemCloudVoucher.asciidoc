@@ -31,6 +31,12 @@ Check the box to agree to the terms of the Open Program Agreement and Privacy St
 
 image:images/ProductKey.png["Subscription Dashboard",align="center"]
 
+== Advice
+When setting up your Voucher, you will be given the option to set an _"Alert"_ when your account balance falls below a particular level. We suggest setting up an alert at £250. You will receive an email to a designated email account.
+
+== Backups and Disaster recovery
+It is important to maintain your own backups. This includes all source code or datasets. If you would like guidance on how to prepare off-side backups, please contact a CIC representative and we will be happy to advise you.
+
 == Overview
 You have now redeemed your CIC voucher, and will be able to make use of a full range of Microsoft Azure services.
 
