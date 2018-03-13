@@ -2,12 +2,16 @@
 
 The following instructional guide will show how to create a Microsoft Azure account, and to redeem your cloud voucher provided through the Cloud Innovation Centre.
 
+**Note: We strongly suggest you to follow these instructions in a "private browsing" or "incognito" session within your browser. This will prevent any interference with existing Microsoft accounts you may own.**
+
 == Step 1:
 Visit link:https://azure.microsoft.com/en-gb/account/[https://azure.microsoft.com/en-gb/account/] and click _“Usage and billing”_.
 
 image:images/ManageUserBilling.png["Manage your Azure account",align="center"]
 
 == Step 2:
+We strongly suggest you to create a distinct account to host your Amazon subscription. This will allow you to more easily share your subscription with other members of your organisation.
+
 Create an account using the _“Sign up now”_ link.
 
 image:images/SignUp.png["Subscription Dashboard",align="center"]
